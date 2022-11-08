@@ -12,7 +12,7 @@ const Inputs = () => {
     const validacion = (e) => {
         e.preventDefault()
         if(user.nombre.length > 4 && user.apellido.length > 2){
-            alert('Capo')
+            alert('Tamo joya')
         }
     }
 
