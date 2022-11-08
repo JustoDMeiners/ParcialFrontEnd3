@@ -1,6 +1,9 @@
 import { useState } from "react";
 import "./App.css";
-import Card from "./components/Card";
+import Card from "./components/Listado";
+import Listado from './components/Listado'
+import  "./index.css"
+import Inputs from './components/Inputs'
 
 function App() {
   const [count, setCount] = useState(0);
@@ -10,7 +13,8 @@ function App() {
       <h1>Carga de estudiantes</h1>
       <form></form>
       <Card />
-    </div>
+      <Inputs />
+    </div>  
   );
 }
 

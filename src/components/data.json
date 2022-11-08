@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "legajo": {
+            "nombre": "Justo Diaz Meiners",
+            "edad": 24 
+        },
+        "materiasAprobadas": 15
+    },
+    {
+        "id": "2",
+        "legajo": {
+            "nombre": "Guillermo Diaz Meiners",
+            "edad": 37 
+        },
+        "materiasAprobadas": 11
+    },
+    {
+        "id": "3",
+        "legajo": {
+            "nombre": "Eduardo Diaz Meiners  ",
+            "edad": 60 
+        },
+        "materiasAprobadas": 5
+    }
+]
